@@ -5,7 +5,7 @@ This can be used in various industries.
 
 The delivery bill is produced at an excel sheet in delivery bills directory.
 
-# STTING UP IN YOUR PC
+# SETTING UP IN YOUR PC
 
 In billing.py at delivery billing directory file search for "PC usr name" in the whole file and change it to the USER NAME in your pc.
   
