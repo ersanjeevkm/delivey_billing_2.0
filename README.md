@@ -30,4 +30,4 @@ NOTE :
 
 #**If you are running pyton 3.5+ check my another repository delivery-billing**
 
-#FOR ANY SUPPORT/ASSISTANCE CONTACT ME VIA EMAIL : er.sanjeev.au@gmail.com 
+# FOR ANY ASSISTANCE CONTACT ME VIA E-MAIL : er.sanjeev.au@gmail.com
