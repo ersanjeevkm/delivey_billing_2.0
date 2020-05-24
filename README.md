@@ -7,7 +7,7 @@ The delivery bill is produced at an excel sheet in delivery bills directory.
 
 # STTING UP IN YOUR PC
 
-In billing.py at delivery billing directory file search for <PC usr name> in the whole file and change it to the USER NAME in your pc.
+In billing.py at delivery billing directory file search for "PC usr name" in the whole file and change it to the USER NAME in your pc.
   
 Copy the "delivery bills" directory to your PC's desktop and "delivery billing" directory to your D:/ drive
 
@@ -20,7 +20,7 @@ NOTE :
 
 1) You can change your username in login.txt file, where first line is the user name
   NOTE :
-    If you change your user name make sure to rename the "admin" directory and "admin_party" , "admin_prod" to <USER NAME> and "<USER           NAME>_party", "<USER NAME>_prod" respectively
+    If you change your user name make sure to rename the "admin" directory and "admin_party" , "admin_prod" to "USER NAME" and "USER           NAME_party", "USER NAME_prod" respectively
 
 2) You can change your password in login.txt file, where second line corresponds to the password
 
